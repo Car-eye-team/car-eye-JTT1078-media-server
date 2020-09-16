@@ -26,6 +26,6 @@ car-eye 技术官方邮箱: support@car-eye.cn
 car-eye 车辆管理平台技术交流QQ群: 590411159   
 car-eye 视频服务和管理平台QQ群：  713522732  
 
-![](https://github.com/Car-eye-team/Car-eye-server/blob/master/car-server/doc/QQ.jpg)  
+![](https://gitee.com/careye_open_source_platform/car-eye-jtt1078-media-server/blob/master/QQ.jpg)  
 
 CopyRight©  car-eye 开源团队 2018-2019
