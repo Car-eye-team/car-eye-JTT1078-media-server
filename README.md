@@ -24,7 +24,6 @@ car-eye 车辆管理平台网址：www.liveoss.com
 car-eye GB28181管理平台网址 ：www.streaming-vip.com:10088     
 car-eye 技术官方邮箱: support@car-eye.cn  
 car-eye 车辆管理平台技术交流QQ群: 590411159   
-car-eye 视频服务和管理平台QQ群：  713522732  
-![QQ](https://gitee.com/careye_open_source_platform/car-eye-jtt1078-media-server/blob/master/QQ/QQ.jpg)  
-<img src="https://gitee.com/careye_open_source_platform/car-eye-jtt1078-media-server/blob/master/QQ/QQ.jpg" width="700" alt="note"/>
+car-eye 视频服务和管理平台QQ群：  713522732![QQ](https://gitee.com/careye_open_source_platform/car-eye-jtt1078-media-server/blob/master/QQ/QQ.jpg)  
+
 CopyRight©  car-eye 开源团队 2018-2019
