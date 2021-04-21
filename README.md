@@ -13,6 +13,10 @@ car-eye-JTT1078-media-server 是car-eye开源团队开发的一个高性能视�
 6. 提供丰富的API给平台调用
 7. 提供对windows和linux全平台支持。部署方便，大量应用于车载行业。
 
+#  架构展示
+
+![](https://gitee.com/careye_open_source_platform_group/car-eye-jtt1078-media-server/raw/master/框架.png)    
+
 
 car-eye-JTT1078-media-server 是一个授权项目，需要授权才能在实际产品中使用。
 
