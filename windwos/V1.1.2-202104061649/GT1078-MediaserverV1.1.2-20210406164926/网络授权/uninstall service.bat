@@ -1,0 +1,2 @@
+net stop CarEyeMediaServer
+sc delete CarEyeMediaServer

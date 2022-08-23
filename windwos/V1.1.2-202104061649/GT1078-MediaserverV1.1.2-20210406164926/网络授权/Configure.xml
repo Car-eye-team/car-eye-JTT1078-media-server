@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configures>
+    <Server_ip>127.0.0.1</Server_ip>
+    <Server_Port>10077</Server_Port>
+    <Linsten_Port>9500</Linsten_Port>
+    <Playback_Port>9600</Playback_Port>
+    <Http_Port>8090</Http_Port>
+    <Send_Port>1008</Send_Port>
+    <Protocol>rtmp</Protocol>
+    <Application>live</Application>
+    <Audio_channel>1</Audio_channel>
+    <Audio_SampleRate>8000</Audio_SampleRate>
+    <Audio_DataLength>164</Audio_DataLength>
+    <Audio_samplingbit>16</Audio_samplingbit>
+    <recordFilePath>E:\\CarEyeRecord\\</recordFilePath>
+    <MQIP>120.79.67.102</MQIP>
+    <MQPort>61627</MQPort>
+    <MQProducerTopicName>ds_vedio_web_8</MQProducerTopicName>
+    <MQConsumerTopicName>ds_web_vedio_8</MQConsumerTopicName>
+    <MQUseTopics>0</MQUseTopics>
+    <MQSessionTransacted>0</MQSessionTransacted>
+    <RTMP_KEY>p19kS27(rk6(+263s3sks163s3SjR2S3VJS3r%{3s%qJ)3Rj6(SkS27(rk6(+26kU262R2+27KS26(r(q26(rj)26(V2676</RTMP_KEY>
+    <m_CustomID>20180001</m_CustomID>
+    <http_server>120.76.235.109</http_server>
+    <http_port>9000</http_port>
+    <http_root>E:\\download\\</http_root>
+    <EnableWS>1</EnableWS>
+    <WSPort>9211</WSPort>
+    <EnableWSS>1</EnableWSS>
+    <WSSPort>9210</WSSPort>
+    <EnableFlv>1</EnableFlv>
+    <FlvPort>9213</FlvPort>
+    <FlvsPort>9214</FlvsPort>
+    <FlvStatusPort>10086</FlvStatusPort>
+    <WSSPem>E:/CarEyeMediaServerTest/ssl/server.pem</WSSPem>
+    <WSSKey>E:/CarEyeMediaServerTest/ssl/server.key</WSSKey>
+    <WSSPwd></WSSPwd>
+    <GBSvrIp>127.0.0.1</GBSvrIp>
+    <GBSvrPort>9233</GBSvrPort>
+    <GBSvrIsWork>1</GBSvrIsWork>
+</configures>
