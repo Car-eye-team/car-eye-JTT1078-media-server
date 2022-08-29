@@ -1,9 +1,9 @@
-# car-eye-media-server
+# CarEye-media-server
 
-# 什么是car-eye-media-server
+# 什么是CarEye-media-server
 
 
-car-eye-media-server 是CarEye团队开发的一套高性能视频服务器。主要分成GT1078视频服务器和GB28181视频服务器两大块
+CarEye-media-server 是CarEye团队开发的一套高性能视频服务器。主要分成GT1078视频服务器和GB28181视频服务器两大块
 他们与车辆管理平台，安防监控平台，上级平台，各种客户端构成了以视频为核心的网络应用框架。
 
 
@@ -29,8 +29,7 @@ www.liveoss.com
 2. 遵照GB28181协议实现   
 3. 提供丰富的流媒体协议格式转码服务，实现RTSP,WS-FLV,RTMP,HLS等多种协议转化。
 4. 提供ws-flv，http-flv，RTMP，HLS等各种输出格式   
-5. 平台分部署部署，负载均衡支持。 
-6. 平台录像和级联
+6. 支持服务器录像和级联
 
 ## GB28181平台体验
 www.liveoss.com:10088   
