@@ -1,9 +1,13 @@
-﻿# car-eye-JTT1078-media-server
+# car-eye-media-server
 
-# 什么是car-eye-JTT1078-media-server
+# 什么是car-eye-media-server
 
 
-car-eye-JTT1078-media-server 是car-eye开源团队开发的一个高性能视频服务器，满足JT/T1078 协议。
+car-eye-media-server 是CarEye团队开发的一套高性能视频服务器。主要分成GT1078视频服务器和GB28181视频服务器两大块
+他们与车辆管理平台，安防监控平台，上级平台，各种客户端构成了以视频为核心的网络应用框架。
+
+
+# GT/T1078 流媒体服务器介绍
 
 其主要的优势：
 1. 满足JT1078 下级和上级视频流传输协议
