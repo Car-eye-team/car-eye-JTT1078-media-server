@@ -1,0 +1,46 @@
+{
+    "http" : {
+        "port" : 8064
+    },
+    "https" : {
+        "port" : 443
+    },
+    "rtmp" : {
+        "port" : 1935
+    },
+    "rtsp" : {
+        "port" : 554
+    },
+    "sip" : {
+        "tcp" : 1935,
+        "udp" : 4060,
+        "user" : "34020000002020000001@34020000",
+        "platform" : "34020000002000000001@34020000",
+        "host" : "127.0.0.1:5060",
+        "pwd" : "12345678"
+    },
+    "rtp" : {
+        "tcp" : 50000,
+        "udp" : 50000,
+        "prior_fmt" : 96,
+        "prior_encoding": "ps",
+	"enable_cache": false
+    },
+    "record" : {
+        "name" : "$id$-$datetime$-$duration$-$vcodec$-$acodec$.mp4",
+        "path" : "record",
+        "enable_gop_cache" : true,
+	"duration":600000,
+	 "notify":"http://127.0.0.1:8000/v1/record/notify"
+    },
+   "hook" : {
+	"url" : "http://127.0.0.1:8000/v1/hook/source",
+	"lua2" : "hook.lua"
+     },
+    "audio_g711_aac":true,
+    "log_level": 7,    
+    "ssl_cert": "car-eye.cn.pem",
+    "ssl_key": "car-eye.cn.key",
+    "external_addr":"120.76.235.109",
+    "auth_key": "O1C%qJRj{%sjtJsK6K6%6GsK6KtH)HSKU2qK{krK6kS2uK7(sjqJRjSJ+JtJuJsjq(uJsjUJs45"
+}

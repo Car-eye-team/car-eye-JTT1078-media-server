@@ -1,0 +1,66 @@
+{
+  "db" : {
+    "urlbackup" : "mongodb://192.168.228.20/gb28181?w=majority",
+    "url" : "mongodb+srv://go:go123456@cluster0.fry6f.mongodb.net/first?w=majority",
+    "db" : "gb28181",
+    "timeout" : 10
+  },
+
+  "http" : {
+    "http" : ":8000",
+    "https" : ":443"
+  },
+
+  "sip" : {
+    "id" : "34020000002000000001",
+    "realm" : "34020000",
+    "udp" : "0.0.0.0:5060",
+    "tcp" : "0.0.0.0:5060"
+  },
+
+  "parent-platform" : {
+    "id" : "34440000002000000001",
+    "protocol" : "gb28181",
+    "realm" : "34440000",
+    "network" : "udp",
+    "host" : "1.1.1.1:5060",
+    "pwd": "12345678",
+    "expired": 300
+  },
+
+  "sub-platforms" : [
+    {
+    "id" : "3402000001",
+    "pwd": "security-password"
+    },
+    {
+      "id" : "3402000002",
+      "pwd": "security-password"
+    }
+  ],
+
+  "media-servers" : [
+    {
+      "id" : "34020000002020000001",
+      "ip": "120.76.235.109",
+      "domain": "car-eye.cn",
+      "port": 8064,
+      "http": 8064,
+      "rtmp": 1935,
+      "rtsp": 554,
+      "rtp": 50000,
+      "vod-port": 9001,
+      "preferred-transport": "TCP/RTP/AVP"
+    }
+  ],
+
+  "jwt" : {
+    "signature": "avlines",
+    "expired": 1015000
+  },
+
+  "position": {
+    "expires": 3600,
+    "interval": 30
+  }
+}

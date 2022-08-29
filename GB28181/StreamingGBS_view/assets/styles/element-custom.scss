@@ -1,0 +1,34 @@
+/* 改变主题色变量 */
+// $--color-primary: #337ab7;
+$--color-primary: #567;
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
+
+
+.el-upload__input {
+    display: none !important;
+}
+
+.el-table {
+    border: 1px solid #eee;
+    border-bottom:0;
+}
+
+.el-autocomplete .el-input__inner {
+    border-radius: 0;
+}
+
+@media screen and (max-width: $--message-min-width - 1) {
+    .el-message {
+        min-width: 100% !important;
+    }
+}
+
+@media screen and (max-width: $--msgbox-width - 1) {
+    .el-message-box {
+        width: 100% !important;
+    }
+}
