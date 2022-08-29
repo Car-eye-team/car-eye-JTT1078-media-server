@@ -21,7 +21,7 @@ car-eye-media-server 是CarEye团队开发的一套高性能视频服务器。�
 
 ![](https://gitee.com/careye_open_source_platform_group/car-eye-jtt1078-media-server/raw/master/框架.png)    
 
-![]（https://gitee.com/careye_open_source_platform_group/car-eye-media-server/raw/master/交互图.png)
+![](https://gitee.com/careye_open_source_platform_group/car-eye-media-server/raw/master/交互图.png)
 
 
 
