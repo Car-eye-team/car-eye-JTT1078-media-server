@@ -29,14 +29,15 @@ www.liveoss.com
 2. 遵照GB28181协议实现   
 3. 提供丰富的流媒体协议格式转码服务，实现RTSP,WS-FLV,RTMP,HLS等多种协议转化。
 4. 提供ws-flv，http-flv，RTMP，HLS等各种输出格式   
-6. 支持服务器录像和级联
+6. 支持平台录像
+7. 支持服务器级联
 
 ## GB28181平台体验
 www.liveoss.com:10088   
 账号：admin    
 密码：123456 
 
-GB28181平台相关资源请参考 https://gitee.com/careye_open_source_platform_group/car-eye-streaming-gbs-view
+GB28181平台SDK相关资源请参考 https://gitee.com/careye_open_source_platform_group/car-eye-streaming-gbs-view
 
 
 #  架构展示
