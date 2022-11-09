@@ -16,6 +16,7 @@ CarEye-media-server 是CarEye团队开发的一套高性能视频服务器。主
 5. 提供丰富的拉流接口，包含HTTP(1.1，2.0)-FLV,HLS,RTMP,WS-FLV
 6. 提供丰富的API给平台调用
 7. 提供对windows和linux全平台支持。部署方便，大量应用于车载行业。
+提供标准的http接口访问，相关文档参考：http://car-eye.cn:81
 
 ## 车辆管理平台体验
 www.liveoss.com
@@ -25,7 +26,7 @@ www.liveoss.com
 # GB28181 流媒体服务器介绍
 ## 服务器功能
 
-1. 提供标准的http接口访问，相关文档参考：http://120.76.235.109:4025/doc/index.html
+1. 提供标准的http接口访问，相关文档参考：http://car-eye.cn:4025/doc/index.html
 2. 遵照GB28181协议实现   
 3. 提供丰富的流媒体协议格式转码服务，实现RTSP,WS-FLV,RTMP,HLS等多种协议转化。
 4. 提供ws-flv，http-flv，RTMP，HLS等各种输出格式   
