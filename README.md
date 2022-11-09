@@ -19,7 +19,7 @@ CarEye-media-server 是CarEye团队开发的一套高性能视频服务器。主
 
 ## 车辆管理平台体验
 www.liveoss.com
-账号：admin    
+账号：test    
 密码：123456
 
 # GB28181 流媒体服务器介绍
@@ -34,7 +34,7 @@ www.liveoss.com
 
 ## GB28181平台体验
 www.liveoss.com:10088   
-账号：admin    
+账号：test   
 密码：123456 
 
 GB28181平台SDK相关资源请参考 https://gitee.com/careye_open_source_platform_group/car-eye-streaming-gbs-view
