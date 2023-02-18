@@ -28,8 +28,8 @@ www.liveoss.com
 
 1. 提供标准的http接口访问，相关文档参考：http://car-eye.cn:4025/doc/index.html
 2. 遵照GB28181协议实现   
-3. 提供丰富的流媒体协议格式转码服务，实现RTSP,WS-FLV,RTMP,HLS，WEBRTC,RTSP 等多种协议转化。
-4. 提供ws-flv，http-flv，RTMP，HLS等各种输出格式   
+3. 提供丰富的流媒体协议格式转码服务，实现RTSP,WS-FLV,RTMP,HLS 等多种协议转化。
+4. 提供ws-flv，http-flv，RTMP，HLS,WEBRTC,RTSP等各种输出格式   
 6. 支持平台录像
 7. 支持服务器级联
 
